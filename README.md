@@ -10,5 +10,5 @@ Carrera en EducaciónIT: Cloud DevOps
 NyA: Gustavo Antonio González
 email: gustavo27gonzalez27@gmail.com
 Linkedin: https://www.linkedin.com/in/gustavo-antonio-gonz%C3%A1lez/
-Rol: Cloud Architect
+Rol en el proyecto: Cloud Architect
 Carrera en EducaciónIT: Cloud DevOps
